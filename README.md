@@ -130,12 +130,6 @@ Feel free to fork this repository, open issues, or submit pull requests to impro
 
 ---
 
-### **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 # **Support Me on Saweria**
 
 Hi there! 👋 If you enjoy the tools, scripts, or content I provide, you can support me via **Saweria**. Your support helps me continue developing and maintaining projects like this!
@@ -186,3 +180,8 @@ You can also follow me on other platforms:
 - [Telegram](https://t.me/AsmaraHancur)
 - [Twitter](https://twitter.com/AsmaraHancur)
 
+---
+
+### **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
