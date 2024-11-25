@@ -1,26 +1,26 @@
 
 ---
 
-# **Fast Scan Mass IP & Same IP Checker Tool**
+# **Pindai Cepat IP Massal &amp; Alat Pemeriksa IP yang Sama**
 
-This tool allows you to perform fast IP scanning and check which websites share the same IP address. It's designed to process a list of websites and return their corresponding IP addresses, with the option to gather all websites that share the same IP.
-
----
-
-### **Features**
-
-- Fast scan of mass websites for their IP addresses.
-- Checks which websites share the same IP address.
-- Displays colorful outputs in the terminal for a better user experience.
-- Simple and efficient way to process a list of URLs from a file.
+Alat ini memungkinkan Anda melakukan pemindaian IP dengan cepat dan memeriksa situs web mana yang berbagi alamat IP yang sama. Ini dirancang untuk memproses daftar situs web dan mengembalikan alamat IP yang sesuai, dengan opsi untuk mengumpulkan semua situs web yang berbagi IP yang sama.
 
 ---
 
-### **Requirements**
+### **Fitur**
 
-Before running the tool, you need to have the following Python packages installed:
+- Pemindaian cepat situs web massal untuk mengetahui alamat IP-nya.
+- Memeriksa situs web mana yang berbagi alamat IP yang sama.
+- Menampilkan keluaran berwarna-warni di terminal untuk pengalaman pengguna yang lebih baik.
+- Cara sederhana dan efisien untuk memproses daftar URL dari suatu file.
 
-- **colorama**: Used for coloring the terminal output.
+---
+
+### **Urutannya**
+
+Sebelum menjalankan alat ini, Anda perlu menginstal paket Python berikut:
+
+- **colorama**: Digunakan untuk mewarnai keluaran terminal.
 
 You can install it using pip:
 
@@ -30,9 +30,9 @@ pip install colorama
 
 ---
 
-### **How to Use**
+### **Cara Menggunakan**
 
-1. **Prepare Your Website List File**:
+1. **Siapkan File Daftar Website Anda**:
    Create a text file (e.g., `list.txt`) with each website URL on a new line. Example:
 
    ```
@@ -41,7 +41,7 @@ pip install colorama
    github.com
    ```
 
-2. **Run the Tool**:
+2. **Jalankan Alat**:
    Clone or download the repository containing this script, then run the tool using Python.
 
    ```bash
@@ -95,7 +95,7 @@ pip install colorama
    python3 scan.py
    ```
 
-2. Provide the file path:
+2. Berikan jalur file:
 
    ```
    Enter Your List.txt File: websites.txt
@@ -130,12 +130,6 @@ Feel free to fork this repository, open issues, or submit pull requests to impro
 
 ---
 
-### **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 # **Support Me on Saweria**
 
 Hi there! 👋 If you enjoy the tools, scripts, or content I provide, you can support me via **Saweria**. Your support helps me continue developing and maintaining projects like this!
@@ -144,7 +138,7 @@ Hi there! 👋 If you enjoy the tools, scripts, or content I provide, you can su
 
 You can donate to me through the following link:
 
-<a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
+<a href="https://saweria.co/AsmaraHancur" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For AsmaraHancur" height="41" width="174"></a>
 
 ---
 
@@ -185,4 +179,9 @@ You can also follow me on other platforms:
 - [GitHub](https://github.com/AsmaraHancur)
 - [Telegram](https://t.me/AsmaraHancur)
 - [Twitter](https://twitter.com/AsmaraHancur)
+- 
+---
 
+### **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
