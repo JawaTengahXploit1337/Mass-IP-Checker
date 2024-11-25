@@ -144,9 +144,7 @@ Hi there! 👋 If you enjoy the tools, scripts, or content I provide, you can su
 
 You can donate to me through the following link:
 
-[Support Me on Saweria](https://saweria.co/AsmaraHancur)
-
-![Saweria Support](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Saweria_logo_2020.svg/1024px-Saweria_logo_2020.svg.png)
+<a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ---
 
