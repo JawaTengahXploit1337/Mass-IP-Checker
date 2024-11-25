@@ -1,4 +1,4 @@
-
+![FunPic_20240808](scan.png)
 ---
 
 # **Fast Scan Mass IP & Same IP Checker Tool**
@@ -6,9 +6,6 @@
 This tool allows you to perform fast IP scanning and check which websites share the same IP address. It's designed to process a list of websites and return their corresponding IP addresses, with the option to gather all websites that share the same IP.
 
 ---
-
-## 📸 Tangkapan Layar
-![FunPic_20240808](scan.png)
 
 ### **Features**
 
