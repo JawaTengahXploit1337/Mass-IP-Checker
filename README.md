@@ -7,6 +7,9 @@ This tool allows you to perform fast IP scanning and check which websites share 
 
 ---
 
+## 📸 Tangkapan Layar
+![FunPic_20240808](scan.png)
+
 ### **Features**
 
 - Fast scan of mass websites for their IP addresses.
