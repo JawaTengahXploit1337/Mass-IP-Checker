@@ -45,10 +45,10 @@ pip install colorama
    Clone or download the repository containing this script, then run the tool using Python.
 
    ```bash
-   python your_script_name.py
+   python3 scan.py
    ```
 
-   (Make sure to replace `your_script_name.py` with the actual name of the script.)
+   (Make sure to replace `scan.py` with the actual name of the script.)
 
 3. **Enter the File Path**:
    When prompted, input the path of your `list.txt` file containing the website URLs. Example:
@@ -92,7 +92,7 @@ pip install colorama
 1. Run the script:
 
    ```bash
-   python scan_ip.py
+   python3 scan.py
    ```
 
 2. Provide the file path:
@@ -135,3 +135,56 @@ Feel free to fork this repository, open issues, or submit pull requests to impro
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+# **Support Me on Saweria**
+
+Hi there! 👋 If you enjoy the tools, scripts, or content I provide, you can support me via **Saweria**. Your support helps me continue developing and maintaining projects like this!
+
+### **How to Support**
+
+You can donate to me through the following link:
+
+[Support Me on Saweria](https://saweria.co/AsmaraHancur)
+
+![Saweria Support](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Saweria_logo_2020.svg/1024px-Saweria_logo_2020.svg.png)
+
+---
+
+### **Why Support?**
+
+Your support helps me:
+- Maintain and improve the tools I develop.
+- Create more resources and tutorials.
+- Keep the project open-source and free for everyone.
+
+---
+
+### **How to Donate**
+
+1. Click the button or the link to visit my Saweria page:  
+   [Support Me on Saweria](https://saweria.co/AsmaraHancur)
+
+2. Choose an amount you’d like to contribute and follow the donation process.
+
+---
+
+### **Thank You! 🙏**
+
+Every contribution is deeply appreciated. Even if you're unable to donate, simply sharing my tools with others or providing feedback is also incredibly helpful!
+
+---
+
+### **Contact**
+
+Feel free to reach out if you have any questions or would like to contribute in other ways. I’m always open to feedback!
+
+---
+
+### **Follow Me**
+
+You can also follow me on other platforms:
+
+- [GitHub](https://github.com/AsmaraHancur)
+- [Telegram](https://t.me/AsmaraHancur)
+- [Twitter](https://twitter.com/AsmaraHancur)
+
