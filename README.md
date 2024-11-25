@@ -1,5 +1,5 @@
 
-![FunPic_20240808](scan.png)
+![FunPic_20240808](Mass-IP-Checker.png)
 ---
 
 # **Fast Scan Mass IP & Same IP Checker Tool**
@@ -8,7 +8,10 @@ Tools ini memungkinkan Anda untuk melakukan pemindaian IP cepat dan memeriksa we
 
 ---
 
-### **Fitur**
+## 📸 Tangkapan Layar
+![FunPic_20240808](scan.png)
+
+### **✨Fitur**
 
 - 🔍 Pemindaian cepat alamat IP dari banyak website.
 - 🌐 Memeriksa website mana yang berbagi alamat IP yang sama.
@@ -17,7 +20,7 @@ Tools ini memungkinkan Anda untuk melakukan pemindaian IP cepat dan memeriksa we
 
 ---
 
-### **Persyaratan**
+### **🔥Persyaratan**
 
 Sebelum menjalankan tools ini, pastikan Anda telah menginstal package Python berikut:
 
@@ -31,7 +34,7 @@ pip install colorama
 
 ---
 
-### **Cara Menggunakan**
+### **🛠️Cara Menggunakan**
 
 1. **Siapkan File Daftar Website Anda**:
    Buat file teks (misalnya `list.txt`) dengan setiap URL website pada baris baru. Contoh:
@@ -88,7 +91,7 @@ pip install colorama
 
 ---
 
-### **Kontribusi**
+### **🤝Kontribusi**
 
 Silakan fork repository ini, buka issue, atau kirim pull request untuk meningkatkan tools ini.
 
