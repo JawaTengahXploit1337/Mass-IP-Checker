@@ -84,44 +84,6 @@ pip install colorama
    ```
    Terima kasih!
    ```
-
----
-
-### **Example Usage**
-
-1. Run the script:
-
-   ```bash
-   python3 scan.py
-   ```
-
-2. Provide the file path:
-
-   ```
-   Enter Your List.txt File: websites.txt
-   ```
-
-3. Output will display the website and its corresponding IP:
-
-   ```
-   example.com: 192.168.1.1
-   google.com: 192.168.1.2
-   ```
-
-4. Optionally, gather websites with the same IP:
-
-   ```
-   Would You Like To Gather Websites With The Same IP? (yes/no): yes
-   Enter The IP Address You Want To Check: 192.168.1.1
-   ```
-
-   Result:
-
-   ```
-   Websites With IP 192.168.1.1:
-   example.com
-   ```
-
 ---
 
 ### **Contributing**
